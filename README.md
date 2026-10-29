@@ -1,6 +1,6 @@
 ### Olá, eu sou o João Vítor 👋
 
-Dev Full Stack Júnior, baseado em Brasília, com experiência prática construindo dashboards, automações e pequenas aplicações web no dia a dia de trabalho.
+Dev Full Stack Júnior, de Brasília, com experiência prática construindo dashboards, automações e pequenas aplicações web no dia a dia de trabalho.
 
 🔭 Atualmente trabalhando com dashboards de acompanhamento e automações em Python
 🌱 Aprendendo: APIs REST e bancos de dados
