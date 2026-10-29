@@ -1,10 +1,10 @@
 ### Olá, eu sou o João Vítor 👋
 
-Dev Full Stack Júnior, de Brasília, com experiência prática construindo dashboards, automações e pequenas aplicações web no dia a dia de trabalho.
+Dev Full Stack Júnior, de Brasília, com experiência construindo e mantendo sistemas em produção: dashboards operacionais completos, plataformas SaaS multi-tenant e automações de processos no dia a dia de trabalho.
 
-🔭 Atualmente trabalhando com dashboards de acompanhamento e automações em Python
+🔭 Atualmente atuando em sistemas de dashboard e gestão em produção, com fluxo de PRs, revisão de código e boas práticas de segurança
 🌱 Aprendendo: APIs REST e bancos de dados
-💬 Fale comigo sobre: dados, automação de processos, front-end
+💬 Fale comigo sobre: arquitetura full stack, automação de processos, dados
 📫 Contato: [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-oliveira-de-alcantara-a53695339)
 
 ## Stack
