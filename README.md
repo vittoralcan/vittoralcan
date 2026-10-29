@@ -6,7 +6,6 @@ Dev Full Stack Júnior, de Brasília, com experiência prática construindo dash
 🌱 Aprendendo: APIs REST e bancos de dados
 💬 Fale comigo sobre: dados, automação de processos, front-end
 📫 Contato: [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-oliveira-de-alcantara-a53695339)
-🌐 Portfólio: https://vittoralcan.github.io/portfolio/
 
 ## Stack
 
