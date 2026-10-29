@@ -1,16 +1,15 @@
-## Hi there 👋
+### Olá, eu sou o João Vítor 👋
 
-<!--
-**vittoralcan/vittoralcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dev Full Stack Júnior, baseado em Brasília, com experiência prática construindo dashboards, automações e pequenas aplicações web no dia a dia de trabalho.
 
-Here are some ideas to get you started:
+🔭 Atualmente trabalhando com dashboards de acompanhamento e automações em Python
+🌱 Aprendendo: APIs REST e bancos de dados
+💬 Fale comigo sobre: dados, automação de processos, front-end
+📫 Contato: [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-oliveira-de-alcantara-a53695339)
+🌐 Portfólio: https://vittoralcan.github.io/portfolio/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+Front-end: HTML, CSS, JavaScript / Back-end e automação: Python / Ferramentas: Git, GitHub, Google Sheets API
+
+**Projetos em destaque**
+Veja os repositórios fixados abaixo 👇
